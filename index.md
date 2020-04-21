@@ -5,7 +5,7 @@
 ### Image Classification
 
 [Flower Classification](/sample_page)
-<img src="images/Rose.jpg?raw=true"/>
+<img src="images/Rose.jpeg?raw=true"/>
 
 ---
 [Cat Breeds](/pdf/sample_presentation.pdf)
