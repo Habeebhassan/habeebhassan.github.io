@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## ABOUT
 
 **Project description:** eyeCrack is an automation organization, developing industrial and home automation solutions. We focus on IoT, IT Networking, technology integration into infrastructure. We are ISO certified.
 
