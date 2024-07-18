@@ -1,51 +1,83 @@
-## Developer Portfolio Landing Page Template
+# Access Code Generator System Landing Page
 
-### Introduction
+Welcome to the landing page for the Access Code Generator System. This project showcases the key features, background, and team members involved in developing the Access Code Generator System. The landing page is designed to provide an overview and easy navigation to the main application.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [About](#about)
+- [Team](#team)
+- [How to Use](#how-to-use)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-<img src="images/demo.gif?raw=true"/>
+## Introduction
 
-### Installation
+The **Access Code Generator System** is a secure and efficient access management solution designed to generate time-sensitive access codes for restricted areas. This landing page introduces the project, highlights its key features, and provides information about the development team.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+![Cover Image](path/to/your/cover-image.jpg)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## Features
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Key Features
 
-### Markdown
+1. **Secure Access Codes**
+   - Generate secure, time-sensitive access codes for restricted areas.
+   - ![Secure Access Codes](path/to/feature1.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. **Easy Management**
+   - Manage residents and security personnel with an intuitive interface.
+   - ![Easy Management](path/to/feature2.jpg)
 
-```markdown
-Syntax highlighted code block
+3. **Real-Time Monitoring**
+   - Monitor access in real-time with detailed logs and notifications.
+   - ![Real-Time Monitoring](path/to/feature3.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+## About
 
-- Bulleted
-- List
+### Project Inspiration
 
-1. Numbered
-2. List
+This project was inspired by the need for a secure and efficient access management system. We aimed to create a solution that not only provides secure access codes but also simplifies the management of residents and security personnel.
 
-**Bold** and _Italic_ and `Code` text
+**Timeline**: This project was developed as part of the Portfolio Project for Holberton School.
 
-[Link](url) and ![Image](src)
-```
+## Team
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Team Members
 
-### Roadmap
+#### Member 1
+- **LinkedIn**: [member1](https://www.linkedin.com/in/member1)
+- **GitHub**: [member1](https://github.com/member1)
+- **Twitter**: [member1](https://twitter.com/member1)
 
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
+#### Member 2
+- **LinkedIn**: [member2](https://www.linkedin.com/in/member2)
+- **GitHub**: [member2](https://github.com/member2)
+- **Twitter**: [member2](https://twitter.com/member2)
 
-### References
+### GitHub Repository
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+Check out the full project on [GitHub](https://github.com/your-repo).
+
+## How to Use
+
+To visit the landing page, simply navigate to the following URL:
+- [Access Code Generator System Landing Page](https://yourusername.github.io/your-repo-name)
+
+### Navigation
+
+- **Home**: Introduces the project with a cover image, name, and description.
+- **Features**: Highlights 3 key features of the Access Code Generator System.
+- **About**: Provides background information and links to team member profiles.
+- **Go to App**: Button that navigates to the deployed project application.
+
+## Deployment
+
+This landing page is hosted on GitHub Pages. To deploy your own version, follow these steps:
+
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/Habeebhassan/habeebhassan.github.io.git
+   cd your-repo
