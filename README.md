@@ -17,7 +17,7 @@ Welcome to the landing page for the Access Code Generator System. This project s
 
 The **Access Code Generator System** is a secure and efficient access management solution designed to generate time-sensitive access codes for restricted areas. This landing page introduces the project, highlights its key features, and provides information about the development team.
 
-![Cover Image](path/to/your/cover-image.jpg)
+![Cover Image](images/cover-image.jpg)
 
 ## Features
 
